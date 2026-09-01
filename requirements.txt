@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.0
+plotly>=5.20
+sqlalchemy>=2.0
+pyodbc>=5.0
+groq>=0.9
+openpyxl>=3.1
