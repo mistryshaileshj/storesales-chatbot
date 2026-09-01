@@ -1,0 +1,8 @@
+# never commit secrets
+.streamlit/secrets.toml
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# never commit the real (un-anonymized) data
